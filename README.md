@@ -1,5 +1,4 @@
 # riqiang.github.io
-This is my CV
+Hi, I'm Riqiang Gao.
 
-use this link to snys wordpress to github
-https://www.youtube.com/watch?v=EUnvXLfHXtk
+
